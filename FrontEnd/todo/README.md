@@ -68,3 +68,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+
+
+##### This is how you feel the Todo application ######
+
+
+1. Clone the Repo 
+2. Goto Backend Folder ( cd Backend )
+3. Do " npm run dev ", It starts the server in localhost: 3003 PORT, Make sure it runs in the same PORT. If something is already running KILL the port (npx kill-port 3003 )
+4. If server runs on 3003 ( You can check the console in the terminal saying ' Server is running on port 3003 ' and ' Connected to MongodB ', then move to Frontend folder ( cd .. & cd Frontend/todo)
+5. Do a ' npm install '
+6. Run 'npm run start '
+7.  Starts the UI, play with the UI.
+8. You can feel the Todo application.
+
+
+Thank you.
+
